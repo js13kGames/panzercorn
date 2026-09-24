@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - arcade
 video: https://youtu.be/iR3peAutNSc
 post: https://github.com/csubagio/js13k-panzercorn
 # See github.com/js13kGames/hello-world for supported frontmatter
